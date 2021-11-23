@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simonyu010/react-practice.git"
+    "url": "https://github.com/simonyu010/react-practice.git"
   },
   "author": "Simon Yu",
   "license": "ISC",
