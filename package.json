@@ -1,0 +1,19 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "my react playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonyu010/react-practice.git"
+  },
+  "author": "Simon Yu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonyu010/react-practice/issues"
+  },
+  "homepage": "https://github.com/simonyu010/react-practice#readme"
+}
